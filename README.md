@@ -1,6 +1,6 @@
 # Extensão Clima
 ### Descrição do Projeto:
-#### Esse projeto é uma Extensão de Navegadores(Chrome, Edge, Firefox).
+#### Esse projeto é uma Extensão de Clima para Navegadores(Chrome, Edge, Firefox).
 ### O que é Extensão faz?
 #### Ela exibe as temperaturas climáticas da cidade de São Paulo em Tempo Real.
 ### Como ele foi criado?

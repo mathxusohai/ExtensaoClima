@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "CliMatt",
+    "description": "Extensão de Clima SP",
+    "author": "Matheus Machado de Oliveira",
+    "browser_action": {
+   	 "default_title": "CliMatt",
+   	 "default_popup": "index.html"
+    }
+}

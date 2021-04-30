@@ -17,4 +17,4 @@
 Anexo: ![Projeto em Funcionamento](https://github.com/mathxusohai/ExtensaoClima/blob/main/Prints/Print(Extens%C3%A3oFuncionando).PNG?raw=true)  
 
 
-###### O Projeto exibe as temperaturas em Tempo Real. XD
+###### Observação: O Projeto exibe as temperaturas em Tempo Real. XD
